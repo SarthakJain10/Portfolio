@@ -13,23 +13,19 @@ Qualifications
 Strong academic foundation in mathematics, logic, and programming
 
 Projects
-**🔹 HackFinance – AI-powered Fintech Chatbot**
+HackFinance – AI-powered Fintech Chatbot ->
 Developed during HackFinance at IIIT-Delhi, this project secured a Top 30 position out of 500+ participants. It featured a chatbot that simplified stock market concepts, offered personalized investment suggestions, enabled dummy trading with virtual currency, and used gamification to enhance engagement.
 [GitHub](https://github.com/errorui/hacktoons-hackathon) | [Live Demo](https://hacktoons-hackathon.vercel.app/)
-
-**🔹 AI4Humanity – Instant Health Companion**
+AI4Humanity – Instant Health Companion ->
 Built at NSUT’s flagship AI hackathon (Top 20 Finalist), this Streamlit-based application diagnoses symptoms and finds nearby hospitals with real-time bed availability, estimated treatment cost, and insurance support. It also offers an intuitive interface for pre-booking beds.
 [GitHub](https://github.com/SarthakJain10/HealthBuzz) | [Live Demo](https://health-buzz-sarthak.vercel.app/)
-
-**🔹 Trading Signal Generator**
+Trading Signal Generator ->
 A stock analysis tool that uses machine learning models to generate buy/sell signals based on price trends and technical indicators. Designed for beginner investors and integrated into a clean Streamlit UI.
 [GitHub](https://github.com/SarthakJain10/trading_signal) | [Live Demo](https://trading-buzzer.streamlit.app/)
-
-**🔹 NoteVidya – Smart Note-taking for YouTube** (currently working on)
+NoteVidya – Smart Note-taking for YouTube (currently working on) ->
 This project allows users to take timestamped notes while watching YouTube videos. Aimed at students and self-learners, it improves study efficiency and recall.
 [GitHub](https://github.com/SarthakJain10/NoteVidya) | [Live Demo](https://notevidya.streamlit.app/)
-
-**🔹 Research Paper Summary Tool**
+Research Paper Summary Tool ->
 Built with LangChain, this tool assists researchers and students by extracting key papers, summarizing content, and identifying important keywords from web sources.
 [GitHub](https://github.com/SarthakJain10/Research-Tool) | [Live Demo](https://research-paper-summary.streamlit.app/)
 
