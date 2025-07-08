@@ -1,5 +1,16 @@
 About Sarthak:
-Vicky is a seasoned professional with expertise in AI, Data Science, Blockchain, and Cloud technologies. Holding an undergraduate degree in Computer Science from the University of Techville (2010), Vicky is committed to delivering innovative solutions and offers valuable resources at cognitiveclass.ai.
+I'm Sarthak Jain, a third-year undergraduate at Netaji Subhash University of Technology, pursuing Electronics and Communication Engineering with a specialization in Artificial Intelligence and Machine Learning. I'm passionate about building impactful tech-driven solutions that blend innovation with real-world problem solving.
+My interests lie in exploring AI and machine learning. I enjoy working on projects that challenge me to think critically, whether it's developing intelligent systems, creating web applications, or solving complex coding problems. I have a solid foundation in Python, Js, HTML, and CSS, and I’m always eager to learn new tools and technologies.
+Currently, I’m focused on strengthening my DSA skills and building projects that reflect both my learning journey and creative mindset. I'm open to exciting opportunities where I can grow, contribute, and make a meaningful impact.
+
+Qualifications
+- B.Tech in Electronics and Communication Engineering (AI & ML Specialization)
+  Netaji Subhash University of Technology (2023–2027)
+- current cgpa 8.27
+- class XII from Khemo Devi Public school, Narela with 86.6%
+- class X from St Thomas School, Bahadurgarh with 94.4%
+
+Strong academic foundation in mathematics, logic, and programming
 
 Work Experience:
 While I currently do not have formal work experience, I’ve actively participated in multiple hackathons and project-based competitions, where I gained hands-on experience in real-world problem solving, team collaboration, and building scalable tech solutions under time constraints. These experiences have helped me develop practical skills beyond the classroom.
