@@ -1,0 +1,45 @@
+About Sarthak:
+Vicky is a seasoned professional with expertise in AI, Data Science, Blockchain, and Cloud technologies. Holding an undergraduate degree in Computer Science from the University of Techville (2010), Vicky is committed to delivering innovative solutions and offers valuable resources at cognitiveclass.ai.
+
+Work Experience:
+While I currently do not have formal work experience, I’ve actively participated in multiple hackathons and project-based competitions, where I gained hands-on experience in real-world problem solving, team collaboration, and building scalable tech solutions under time constraints. These experiences have helped me develop practical skills beyond the classroom.
+
+Career Goal:
+Sarthak's career goal is to leverage their expertise in AI and emerging technologies to drive meaningful innovation and create solutions that positively impact businesses and society.
+
+Skills: 
+Programming Languages: Python, JavaScript
+Core Concepts: Data Structures & Algorithms, Problem Solving, Object-Oriented Programming (OOP)
+Web Technologies: HTML, CSS
+Machine Learning / AI: TensorFlow, PyTorch, Keras, Natural Language Processing (NLP), AI/ML Integration, LangChain, Retrieval-Augmented Generation (RAG)
+Tools & Environments: VS Code, Jupyter Notebook, Git, Unix/Linux
+
+
+Achievements:
+Top 30 Finalist out of 500+ participants at HackFinance (IIIT-Delhi), where I built a fintech solution tackling real-world financial problems using AI-driven tools.
+Top 20 Finalist at AI4Humanity, a national-level hackathon focused on leveraging AI for social good — developed a scalable solution aimed at improving mental health support systems.
+
+Contact:
+LinkedIn: https://www.linkedin.com/in/sarthak-jain-sahab/
+Phone: 8307824496
+Email: sarthak19167@gmail.com
+Location: Bahadurgarh, Haryana
+
+Strengths and Advantages:
+Sarthak's strengths lie in a profound passion for technology, innovative problem-solving, and client-centric solutions.
+
+Weaknesses and Disadvantages:
+Sarthak's unwavering pursuit of excellence may occasionally lead to in-depth analysis, but it ensures the delivery of high-quality services.
+
+Interests and Hobbies:
+Beyond academics and projects, I enjoy exploring the evolving world of Generative AI, often experimenting with new tools and ideas in my free time. I'm also passionate about yoga for mindfulness and well-being, and I unwind by watching anime and reading manga, which inspire creativity and storytelling in my tech pursuits.
+
+Portfolio:
+Explore my portfolio of innovative and impactful projects, built using technologies like Python, Generative AI, and modern web tools. This website not only highlights my technical skills and creative solutions but also serves as a demonstration of how AI/ML integration can enhance user experience and functionality.
+Feel free to explore — I hope it inspires you to build and innovate too!
+
+Availability:
+Sarthak is actively seeking new opportunities and is ready to start immediately.
+
+References:
+References are available upon request.

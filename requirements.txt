@@ -1,0 +1,16 @@
+streamlit
+requests
+streamlit-lottie
+streamlit-timeline
+
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-text-splitters
+
+sentence-transformers
+transformers
+accelerate
+faiss-cpu
+protobuf

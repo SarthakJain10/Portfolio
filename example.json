@@ -1,0 +1,89 @@
+{
+  "title": {
+    "media": {
+      "url": "https://media.licdn.com/dms/image/v2/D5616AQHHxeMs0_WPbg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718622196758?e=1757548800&v=beta&t=DGpwl8C5mk_9_ucTDisyQZHze8eXtoC8LIHONpo1tDU"
+    },
+    "text": {
+      "headline": "My timeline",
+      "text": "<p>ECE (AI/ML) Undergraduate Journey at NSUT, Delhi</p>"
+    }
+  },
+  "events": [
+    {
+      "start_date": { "year": "2023", "month": "8" },
+      "text": {
+        "headline": "🎓 Started NSUT Journey",
+        "text": "<p>Enrolled in B.Tech ECE with specialization in AI/ML.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2023", "month": "9" },
+      "text": {
+        "headline": "Learned HTML & CSS",
+        "text": "<p>Began web development with core frontend technologies.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2023", "month": "11" },
+      "text": {
+        "headline": "DSA with Python",
+        "text": "<p><p>Started solving problems on arrays, strings, stacks, and linked lists on platforms like LeetCode and GFG.</p></p>"
+      }
+    },
+    {
+      "start_date": { "year": "2024", "month": "1" },
+      "text": {
+        "headline": "Python in Depth",
+        "text": "<p>Explored core Python concepts, OOPs, libraries like NumPy, Pandas, and automation tools."
+      }
+    },
+    {
+      "start_date": { "year": "2024", "month": "5" },
+      "text": {
+        "headline": "Learned ML/DL/NLP",
+        "text": "<p>Dived into Machine Learning, Deep Learning (TensorFlow, PyTorch), and Natural Language Processing using Transformers.</p>"
+      }
+    },
+    {
+      "start_date": { "year": "2025", "month": "2", "day": "15" },
+      "text": {
+        "headline": "HackFinance @ IIIT-Delhi",
+        "text": "<p>Built a fintech project at IIIT-Delhi's HackFinance, securing a Top 30 position among 500+ participants. Developed an AI-powered chatbot to simplify stock market concepts, offered personalized investment insights, enabled dummy trading for risk-free learning, and integrated gamification to enhance user engagement.<br><a href='https://github.com/errorui/hacktoons-hackathon' target='_blank'>GitHub Repo</a> | <a href='https://hacktoons-hackathon.vercel.app/' target='_blank'>Live Demo</a></p>"
+      },
+      "media": {
+        "url": "https://media.licdn.com/dms/image/v2/D5622AQG92f8VZjLCXA/feedshare-shrink_2048_1536/B56ZUTvxUVGQAo-/0/1739793045962?e=1755129600&v=beta&t=n9SiBdYFdLPBOA1R8_FCYaaDWOW_7clGhS-BSSomm_c"
+      }
+    },
+    {
+      "start_date": { "year": "2025", "month": "4", "day": "2" },
+      "text": {
+        "headline": "AI4HUMANITY @ NSUT",
+        "text": "<p>Developed an AI-powered Instant Health Companion that diagnoses symptoms, locates nearby hospitals with real-time bed availability, costs, and insurance details, enables advance bed booking, and offers an intuitive user interface—ranked in the Top 20 at NSUT’s flagship AI hackathon..<br><a href='https://github.com/SarthakJain10/HealthBuzz' target='_blank'>GitHub Repo</a> | <a href='https://health-buzz-sarthak.vercel.app/' target='_blank'>Live Demo</a></p>"
+      },
+      "media": {
+        "url": "https://media.licdn.com/dms/image/v2/D4D22AQGRriFqDt5Ttg/feedshare-shrink_1280/B4DZcgAt5XH4Ao-/0/1748588749551?e=1755129600&v=beta&t=zxiy2nqXXOmr-hKHOtGQ1tUu5miWjSTlpq3IUsRaC8U"
+      }
+    },
+    {
+      "start_date": { "year": "2025", "month": "5" },
+      "text": {
+        "headline": "Trading Signal Project",
+        "text": "<p>Created a tool that uses machine learning to generate buy/sell signals based on stock trends and technical indicators.<br><a href='https://github.com/SarthakJain10/trading_signal' target='_blank'>GitHub Repo</a> | <a href='https://trading-buzzer.streamlit.app/' target='_blank'>Live Demo</a></p>"
+      }
+    },
+    {
+      "start_date": { "year": "2025", "month": "6", "day": "15" },
+      "text": {
+        "headline": "NoteVidya",
+        "text": "<p>Note-taking tool for YouTube videos. <br><a href='https://github.com/SarthakJain10/NoteVidya' target='_blank'>GitHub Repo</a> | <a href='https://notevidya.streamlit.app/' target='_blank'>Live Demo</a></p>"
+      }
+    },
+    {
+      "start_date": { "year": "2025", "month": "6", "day": "22" },
+      "text": {
+        "headline": "Mini Research Tool Project",
+        "text": "<p>Built a mini project that helps researchers extract key papers, keywords, and summaries from the web using Langchain.<br><a href='https://github.com/SarthakJain10/Research-Tool' target='_blank'>GitHub Repo</a> | <a href='https://research-paper-summary.streamlit.app/' target='_blank'>Live Demo</a></p>"
+      }
+    }
+  ]
+}
