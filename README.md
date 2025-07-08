@@ -9,7 +9,7 @@ This is an interactive personal portfolio built using **Streamlit**, designed to
 
 - **📁 Project Showcase**
   - A responsive layout displaying key software projects I've worked on.
-  - Each project includes a short description, tech stack, and unique problem-solving highlights.
+  - Each project includes live project link (Do check them out).
 
 - **💬 RAG-Based Chatbot**
   - Integrated a **Retrieval-Augmented Generation (RAG)** chatbot using **FAISS** for semantic search and **Gemini/HuggingFace LLMs**.
