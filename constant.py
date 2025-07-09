@@ -26,7 +26,7 @@ projects = [
     },
     {
         "title": "Trading Signal Project",
-        "image": "images/trading_buzzer.jpg",
+        "image": "images/trading_buzzer.png",
         "description": "Created a tool that uses machine learning to generate buy/sell signals based on stock trends and technical indicators.",
         "github": "https://github.com/SarthakJain10/trading_signal",
         "demo": "https://trading-buzzer.streamlit.app/"
